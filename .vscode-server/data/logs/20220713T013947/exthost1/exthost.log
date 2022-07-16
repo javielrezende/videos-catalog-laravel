@@ -1,0 +1,15 @@
+[2022-07-13 01:39:53.406] [exthost] [info] Extension host with pid 229 started
+[2022-07-13 01:39:53.531] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-07-13 01:39:53.598] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-07-13 01:39:53.635] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-07-13 01:39:53.704] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+[2022-07-13 01:39:53.868] [exthost] [info] Lock '/var/www/.vscode-server/data/User/workspaceStorage/159387ccf0f0371870c6bdcfc21c96f3/vscode.lock': Lock acquired.
+[2022-07-13 01:39:53.916] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-07-13 01:39:54.117] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-07-13 01:39:55.353] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-13 01:39:55.410] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-13 01:39:55.423] [exthost] [info] Eager extensions activated
+[2022-07-13 01:44:38.396] [exthost] [info] ExtensionService#_doActivateExtension ms-azuretools.vscode-docker, startup: false, activationEvent: 'onLanguage:dockercompose'
+[2022-07-13 01:47:14.709] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-07-13 01:47:14.719] [exthost] [info] Lock '/var/www/.vscode-server/data/User/workspaceStorage/159387ccf0f0371870c6bdcfc21c96f3/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-07-13 01:47:14.777] [exthost] [info] Extension host with pid 229 exiting with code 0

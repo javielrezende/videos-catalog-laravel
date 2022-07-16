@@ -1,0 +1,1680 @@
+[2022-07-12 03:12:04.439] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:04.460] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:04.462] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:04.464] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:04.466] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:04.470] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:04.484] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:04.487] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:04.496] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:04.500] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:04.506] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:04.509] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:04.513] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:04.521] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:04.524] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:04.528] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:04.530] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:04.533] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:04.535] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:04.537] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:04.539] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:04.542] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:04.544] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:04.546] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:04.548] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:04.551] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:04.553] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:04.556] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:04.559] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:04.561] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:04.563] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:04.565] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:04.567] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:04.570] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:04.573] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:04.575] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:04.577] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:04.579] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:04.581] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:04.584] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:04.596] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.026] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.029] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.031] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.033] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.036] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.038] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.041] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.043] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.046] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.047] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.050] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.053] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.056] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.058] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.060] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.063] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.065] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.067] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.070] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.073] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.076] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.078] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.080] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.083] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.085] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.088] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.092] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.094] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.097] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.099] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.102] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.105] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.109] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.127] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.132] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.141] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.150] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.152] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.157] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.161] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.163] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.168] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.170] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.176] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.178] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.181] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.185] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.187] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.190] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.192] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.194] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.196] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.198] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.200] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.203] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.205] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.209] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.212] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.215] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.217] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.219] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.222] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.230] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.232] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.234] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.239] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.246] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.251] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.252] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.254] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.260] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.269] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.271] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.274] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.282] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.292] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.294] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.296] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.298] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.300] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.301] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.304] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.307] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.309] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.312] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.314] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.317] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.320] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.322] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.324] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.326] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.328] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.330] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.333] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.335] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.340] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.352] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.355] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.358] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.362] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.369] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.374] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.377] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.380] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.384] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.388] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.392] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.394] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.398] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.401] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.404] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.406] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.409] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.411] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.413] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.415] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.417] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.420] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.422] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.424] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.427] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.429] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.432] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.434] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.440] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.448] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.455] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.460] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.476] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.477] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.479] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.483] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.486] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.496] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.499] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.502] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.504] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.506] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.508] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.510] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.512] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.514] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.517] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.520] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.522] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.524] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.527] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.529] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.533] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.535] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.538] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.540] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.542] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.544] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.546] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.550] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.562] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.575] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.582] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.584] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.586] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.598] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.600] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.606] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.609] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.612] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.614] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.616] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.619] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.621] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.623] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.625] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.626] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.628] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.630] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.631] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.633] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.635] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.637] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.640] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.642] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.644] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.646] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.647] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.649] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.651] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.653] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.655] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.656] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.659] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.661] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.663] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.666] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.668] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.671] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.673] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.675] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.678] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.679] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.681] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.683] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.686] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.689] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.697] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.708] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.712] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.733] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.739] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.749] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.752] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.755] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.757] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.760] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.763] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.765] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.767] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.770] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.772] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.775] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.777] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.779] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.781] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.783] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.785] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.787] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.788] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.789] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.791] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.792] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.794] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.797] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.799] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.801] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.803] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.805] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.808] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.810] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.812] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.814] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.816] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.820] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.829] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.832] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.836] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.838] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.841] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.847] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.850] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.859] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.862] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.872] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.876] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.878] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.881] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.884] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.886] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.889] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.891] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.894] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.897] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.900] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.901] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.903] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.905] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.908] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.910] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.912] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.914] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.916] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.918] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.920] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.922] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.924] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.927] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.930] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.937] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.951] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.962] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.968] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.970] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.972] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.975] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.978] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.985] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.988] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.990] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.992] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.994] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.996] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:05.999] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.001] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.003] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.005] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.008] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.010] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.011] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.013] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.014] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.017] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.019] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.021] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.024] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.026] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.028] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.030] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.033] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.035] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.038] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.040] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.043] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.044] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.045] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.047] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.049] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.050] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.052] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.054] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.055] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.057] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.059] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.061] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.063] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.065] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.068] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.348] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.366] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.372] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.375] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.380] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.383] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.390] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.405] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.410] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.412] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.418] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.421] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.429] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.431] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.435] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.437] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.440] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.443] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.445] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.448] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.451] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.453] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.456] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.458] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.460] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.462] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.465] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.468] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.471] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.480] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.490] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.493] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.502] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.506] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.516] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.532] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.536] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.537] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.541] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.543] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.545] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.548] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.551] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.553] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.556] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.558] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.561] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.563] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.566] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.569] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.571] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.574] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.576] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.579] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.581] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.583] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.585] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.590] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.592] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.596] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.607] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.613] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.615] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.618] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.621] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.624] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.636] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.643] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.644] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.648] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.652] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.660] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.663] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.665] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.668] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.670] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.672] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.674] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.676] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.679] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.682] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.684] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.687] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.688] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.690] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.692] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.694] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.698] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.701] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.704] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.707] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.709] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.722] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.747] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.751] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.759] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.763] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.765] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.767] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.769] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.772] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.773] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.775] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.777] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.779] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.781] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.783] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.784] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.786] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.788] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.790] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.792] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.794] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.797] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.799] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.801] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.804] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.805] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.808] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.809] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.811] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.813] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.816] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.822] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.827] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.830] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.838] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.840] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.843] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.849] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.852] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.854] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.856] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.871] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.874] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.878] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.882] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.885] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.886] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.889] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.893] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.896] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.900] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.903] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.905] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.907] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.909] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.912] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.914] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.917] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.919] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.921] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.923] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.926] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.928] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.930] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.932] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.934] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.940] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.952] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.958] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.960] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.963] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.970] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.974] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.979] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.984] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.988] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:06.998] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:07.001] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:07.003] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:07.006] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:07.009] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:07.013] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:07.017] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:07.031] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:07.043] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:07.046] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:07.053] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:07.058] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:07.063] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:07.076] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:07.099] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:07.167] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:07.174] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:07.178] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:07.189] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:07.192] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:07.200] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:07.207] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:07.219] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:07.236] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:07.240] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:07.247] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-07-12 03:12:07.279] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)

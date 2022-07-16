@@ -1,0 +1,19 @@
+[2022-07-12 02:50:29.080] [exthost] [info] Extension host with pid 221 started
+[2022-07-12 02:50:29.289] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-07-12 02:50:29.384] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-07-12 02:50:29.503] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-07-12 02:50:29.586] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+[2022-07-12 02:50:29.857] [exthost] [info] Lock '/var/www/.vscode-server/data/User/workspaceStorage/159387ccf0f0371870c6bdcfc21c96f3/vscode.lock': Lock acquired.
+[2022-07-12 02:50:29.946] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-07-12 02:50:30.264] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-07-12 02:50:31.650] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-12 02:50:31.765] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-12 02:50:31.787] [exthost] [info] Eager extensions activated
+[2022-07-12 02:53:16.158] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-07-12 02:53:16.204] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-07-12 02:53:16.379] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-07-12 03:03:32.351] [exthost] [info] ExtensionService#_doActivateExtension cweijan.vscode-mysql-client2, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-12 03:07:24.372] [exthost] [info] ExtensionService#_doActivateExtension ms-azuretools.vscode-docker, startup: false, activationEvent: 'onLanguage:dockercompose'
+[2022-07-12 03:10:14.659] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-07-12 03:10:14.683] [exthost] [info] Lock '/var/www/.vscode-server/data/User/workspaceStorage/159387ccf0f0371870c6bdcfc21c96f3/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-07-12 03:10:15.126] [exthost] [info] Extension host with pid 221 exiting with code 0

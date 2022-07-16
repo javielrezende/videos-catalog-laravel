@@ -1,0 +1,15 @@
+{
+    "explorer.confirmDelete": false,
+    "go.toolsManagement.autoUpdate": true,
+
+    // Enable/disable built-in PHP validation.
+    "php.validate.enable": false,
+    "terminal.integrated.defaultProfile.osx": "zsh",
+    "window.zoomLevel": 1,
+    "intelephense.environment.phpVersion": "8.1.1",
+    "php.suggest.basic": false,
+    "editor.inlineSuggest.enabled": true,
+    "workbench.iconTheme": "vscode-icons",
+    "vsicons.dontShowNewVersionMessage": true,
+    "terminal.integrated.defaultProfile.linux": "bash",
+}

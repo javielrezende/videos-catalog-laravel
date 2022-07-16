@@ -1,0 +1,18 @@
+[2022-07-12 02:30:09.071] [remoteagent] [info] Extension host agent started.
+[2022-07-12 02:30:09.169] [remoteagent] [error] ptyHost was unable to resolve shell environment {}
+[2022-07-12 02:30:09.252] [remoteagent] [info] [127.0.0.1][ea36dbfd][ManagementConnection] New connection established.
+[2022-07-12 02:30:10.535] [remoteagent] [info] [127.0.0.1][e9b98cec][ExtensionHostConnection] New connection established.
+[2022-07-12 02:30:10.655] [remoteagent] [info] [127.0.0.1][e9b98cec][ExtensionHostConnection] <235> Launched Extension Host Process.
+[2022-07-12 02:30:13.184] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /workspace)
+[2022-07-12 02:30:13.252] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: Bad file descriptor
+[2022-07-12 02:30:14.899] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /workspace)
+[2022-07-12 02:30:14.930] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: Bad file descriptor
+[2022-07-12 02:30:15.952] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /workspace)
+[2022-07-12 02:30:15.958] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: Bad file descriptor
+[2022-07-12 02:30:16.806] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /workspace)
+[2022-07-12 02:30:16.812] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: Bad file descriptor
+[2022-07-12 02:30:17.460] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /workspace)
+[2022-07-12 02:30:17.465] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: Bad file descriptor
+[2022-07-12 02:30:18.064] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /workspace)
+[2022-07-12 02:30:18.077] [remoteagent] [error] [File Watcher (universal)] gave up attempting to restart watcher after error: Bad file descriptor
+[2022-07-12 02:30:38.150] [remoteagent] [info] [127.0.0.1][e9b98cec][ExtensionHostConnection] <235> Extension Host Process exited with code: 0, signal: null.

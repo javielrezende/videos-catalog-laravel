@@ -1,0 +1,7 @@
+[init]
+	defaultBranch = main
+[user]
+	name = Roger Rezende
+	email = javielrezende@gmail.com
+[credential]
+	helper = "!f() { /var/www/.vscode-server/bin/92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9/node /tmp/vscode-remote-containers-bf0c00bb359c7ae933034443020b784b6709dc88.js $*; }; f"
